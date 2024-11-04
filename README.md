@@ -45,7 +45,7 @@
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/{username}/harshtripathi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HarshTripathi1103/harshtripathi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
