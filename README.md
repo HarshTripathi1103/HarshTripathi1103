@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Data Science student from Mumbai 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshtripathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=HarshTripathi1103&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🎓 Currently pursuing BE in AI & Data Science from Mumbai University
 - 🌱 Learning and growing in the field of AI, Web Development, and Data Science
 - ⚡ Age: 20 years
-- 📫 How to reach me: [Add your email here]
+- 📫 How to reach me: tripathiharh2026@gmail.com
 
 ### 🛠️ Tech Stack
 
