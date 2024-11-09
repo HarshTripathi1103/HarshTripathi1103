@@ -13,7 +13,7 @@
 - 🎓 Currently pursuing BE in AI & Data Science from Mumbai University
 - 🌱 Learning and growing in the field of AI, Web Development, and Data Science
 - ⚡ Age: 20 years
-- 📫 How to reach me: tripathiharh2026@gmail.com
+- 📫 How to reach me: tripathiharsh2026@gmail.com
 
 ### 🛠️ Tech Stack
 
