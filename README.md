@@ -30,11 +30,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtripathi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshTripathi1103&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtripathi&theme=radical" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshTripathi1103&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ### 🏆 GitHub Trophies
