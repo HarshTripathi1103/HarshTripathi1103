@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
 <h3 align="center">A passionate AI & Data Science student from Mumbai 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshTripathi1103&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG"/>
